@@ -1,10 +1,4 @@
-# Critical Studies week 12
-
-Week 12 homework for the CCI Critical Studies: Computational Thinking and Critical Practice course
-
-Designing a method - step one, document the steps of your own process This week, you are invited to create a work of art. I can be anything, a digital collage, a sculpture, a piece of creative code.  
-
-## Terminal Face
+# Terminal Face
 These piece uses your webcam to parse your face into ASCII in real time.
 - Ensure you have `numpy` and `cv2`
 	- NB these can be installed with:
@@ -22,7 +16,7 @@ The UI: (NB: This was after iterating on some of Daan's advice)
 
 **What are the values you are considering?**
 \
-The main value I aimed to consider with this is the debate surrounding computer vision and racism. I also wanted the piece to take place in the terminal as I believe the ASCII aesthetic would be less effective if it were rendered as text on a seperate window. I hoped this would make a regular terminal window seem more alive.
+The main value I aimed to consider with this is the debate surrounding computer vision and racism. I also wanted the piece to take place in the terminal as I believe the ASCII aesthetic would be less effective if it were rendered as text on a seperate window. I hoped this would make a regular terminal window seem more alive/relatable as well as serving to be a metaphor for the deep, black-boxed, internal architecture of the computer. 
 
 
 **Do they take in to accounts the critiques of this week's reading? Write them down.**
@@ -62,4 +56,4 @@ I poked through the formal response to get the key points made both about the de
 
 **How do you respond it? Do you re-visit and iterate your work? Do you look for bias in the data? What are the ways to think about it? Make a note of this.**
 \
-Daan's feedback definitley necessitates a new iteration for my work. There were clearly some big UI design flaws as well as some poorly chosen wording in the piece. A new iteration was always expect though, as very rarely I would trust wholly positive feedback on the first generation. As extremely helpful Daan's feedback was however, I also need the feedback from other people; particularly people from different social backgrounds. I think this is especically important when tackling as important and deep-rooted subjects as racism.
+Daan's feedback definitley necessitated a new iteration for my work. There were clearly some big UI design flaws as well as some poorly chosen wording in the initial piece. A new iteration was always to be expected though, as very rarely I would trust wholly positive feedback on the first generation. As extremely helpful Daan's feedback was however, I also need the feedback from other people; particularly people from different social backgrounds. I think this is especically important when tackling as important and deep-rooted subjects as racism.
