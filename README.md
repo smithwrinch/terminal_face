@@ -16,7 +16,7 @@ The UI: (NB: This was after iterating on some of Daan's advice)
 
 **What are the values you are considering?**
 \
-The main value I aimed to consider with this is the debate surrounding computer vision and racism. I also wanted the piece to take place in the terminal as I believe the ASCII aesthetic would be less effective if it were rendered as text on a seperate window. I hoped this would make a regular terminal window seem more alive/relatable as well as serving to be a metaphor for the deep, black-boxed, internal architecture of the computer. 
+The main value I aimed to consider with this is the debate surrounding computer vision and racism -- specifically I wanted to experience how easy/difficult it was to remain non-racist as a software developer when writing computer vision software fisthand. I also wanted the piece to take place in the terminal as I believe the ASCII aesthetic would be less effective if it were rendered as text on a seperate window. I hoped this would make a regular terminal window seem more alive/relatable as well as serving to be a metaphor for the deep, black-boxed, internal architecture of the computer. 
 
 
 **Do they take in to accounts the critiques of this week's reading? Write them down.**
